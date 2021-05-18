@@ -32,7 +32,8 @@ h3 {
 p {
 	
 	padding-left: 50px;
-	padding-right: 50px;
+	padding-right: 5px;
+	max-width: 800px;
 	
 }
 
