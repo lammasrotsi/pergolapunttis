@@ -137,11 +137,12 @@ color: black;
 	
 
 .kortti {
-	margin: 30px;
+	max-width: 500px;
+	margin: 50px;
 	border-style: solid;
 	border-width: 10px;
 	border-color: black;
-	border-radius: 10px;
+	border-radius: 20px;
 	color: white;
 	background-color: #50514F;
 	
