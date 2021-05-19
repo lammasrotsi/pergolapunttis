@@ -152,3 +152,7 @@ color: black;
 	background-color: #50514F;
 	
 }
+.centerBlock {
+  display: table;
+  margin: auto;
+}
