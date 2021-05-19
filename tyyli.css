@@ -10,6 +10,7 @@ nav {
 }
 main {
 	margin-right: 40px;
+	margin-left: 40px;
 	font-family: 'Nunito Sans', sans-serif;
 }
 h1 {
@@ -17,18 +18,14 @@ h1 {
 }
 h2 {
 	padding-top: 50px;
-	padding-left: 50px;
 	font-weight: bold;
 	
 }
 h3 {
 	padding-top: 50px;
-	padding-left: 50px;
 	font-weight: bold;
 }
-.etusivu {
-	padding-left: 50px;
-}
+
 p {
 	max-width: 800px;
 }
