@@ -37,9 +37,7 @@ img {
   height: auto;
   border-radius: 5px;
 }
-figure {
-	max-width: fit-content;
-}
+
 .sivupalkki {
   height: 100%;
   width: 40px;
@@ -66,7 +64,7 @@ figure {
 	opacity: 0.6;
 }
 form {
-	
+	margin-right: 1opx;
 	padding: 10px;
 	background-color: #50514F;
 	max-width: 700px;
