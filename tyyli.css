@@ -152,7 +152,6 @@ color: black;
 	background-color: #50514F;
 	
 }
-.centerBlock {
-  display: table;
-  margin: auto;
+.putte {
+	padding-top: 50px;
 }
