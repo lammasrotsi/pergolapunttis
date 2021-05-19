@@ -9,7 +9,7 @@ nav {
   font-family: 'Halant', serif;
 }
 main {
-	margin-right: 20px;
+	margin-right: 40px;
 	margin-left: 20px;
 	margin-top: 20px;
 	font-family: 'Nunito Sans', sans-serif;
@@ -36,6 +36,9 @@ img {
   max-width: 100%;
   height: auto;
   border-radius: 5px;
+}
+figure {
+	max-width: fit-content;
 }
 .sivupalkki {
   height: 100%;
